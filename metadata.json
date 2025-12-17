@@ -1,0 +1,5 @@
+{
+  "name": "Copy of PyWeather Gen",
+  "description": "An interactive weather dashboard that generates realistic weather forecasts using AI and provides the corresponding Python code to fetch such data programmatically.",
+  "requestFramePermissions": []
+}
